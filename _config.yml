@@ -11,3 +11,11 @@ theme: minima
 # Set the Minima theme's skin to dark
 minima:
   skin: "dark"
+
+nav:
+  - title: Home
+    url: "/"
+  - title: Documentation
+    url: "/docs/"
+  - title: Integrations
+    url: "/integrations/README.md"
