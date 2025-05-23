@@ -1,9 +1,5 @@
 #remote_theme: "jekyll/minima@1e8a445"
 #minima:
-title: Fortify Resources
-description: Fortify documentation and resources centralized and organized
-url: "https://jamiedelco.guthub.io/fortify/"  # Change this to your actual domain or GitHub Pages URL
-baseurl: ""  # Set this to your repository name if you're using a subpath, e.g., "/myrepo"
 
 theme: minima
 
