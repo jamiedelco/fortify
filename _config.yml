@@ -1,3 +1,13 @@
-remote_theme: "jekyll/minima@1e8a445"
+#remote_theme: "jekyll/minima@1e8a445"
+#minima:
+#  skin: dark
+#title: Your Site Title
+#description: Your site description goes here
+#url: "https://yourdomain.com"  # Change this to your actual domain or GitHub Pages URL
+#baseurl: ""  # Set this to your repository name if you're using a subpath, e.g., "/myrepo"
+
+theme: minima
+
+# Set the Minima theme's skin to dark
 minima:
-  skin: dark
+  skin: "dark"
