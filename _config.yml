@@ -10,4 +10,4 @@ theme: minima
 
 # Set the Minima theme's skin to dark
 minima:
-  skin: "dark"
+  skin: dark
