@@ -1,13 +1,7 @@
-#remote_theme: "jekyll/minima@1e8a445"
-#minima:
+theme: slate  # Using the Slate theme
 
-theme: minima
-
-# Set the Minima theme's skin to dark
-minima:
-  skin: "dark"
-
-nav:
+# Navigation links - Slate uses pages for navigation, so link directly to pages
+header_pages:
   - title: Home
     url: "/"
   - title: Documentation
