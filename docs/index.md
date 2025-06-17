@@ -169,7 +169,7 @@ A consolidated and organized listing of Fortify product documentation from the [
 
 ## FoD (Fortify on Demand) - SaaS
 - Fortify on Demand Jenkins Plugin v8.0 User Guide [^1]
-[(HTML)](https://www.microfocus.com/documentation/fortify-on-demand-jenkins-plugin/8.0/FoD_Jenkins_Plugin_Help_8.0/index.htm) 
+[(HTML)](https://www.microfocus.com/documentation/fortify-on-demand-jenkins-plugin/8.0/FoD_Jenkins_Plugin_Help_8.0/index.htm)  
 
 
 
