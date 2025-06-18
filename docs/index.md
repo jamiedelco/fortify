@@ -118,7 +118,7 @@ A consolidated and organized listing of Fortify product documentation from the [
     [(HTML)](https://www.microfocus.com/documentation/fortify-ScanCentral-DAST/2520/Deploying_ScanCentral_DAST_in_Kubernetes_25.2.0.html) 
     - Deploying DAST Scanner in Kubernetes 25.2
     [(HTML)](https://www.microfocus.com/documentation/fortify-ScanCentral-DAST/2520/Deploying_DAST_Scanner_in_Kubernetes_25.2.0.html) 
-* WebInspect Enterprise (Deprecated)
+* WebInspect Enterprise [^3]
     - Fortify WebInspect Enterprise Installation and Implementation Guide 23.2 [^1]
     [(HTML)](https://www.microfocus.com/documentation/fortify-webinspect-enterprise/2320/WIE_Install_Help_23.2.0/index.htm) 
     [(PDF)](https://www.microfocus.com/documentation/fortify-webinspect-enterprise/2320/WIE_Install_23.2.0.pdf)
@@ -176,8 +176,11 @@ A consolidated and organized listing of Fortify product documentation from the [
 
 # Footnotes
 
-[^1]: Most recent as of 6/17/2025
-[^2]: Pending update
+[^1]: Most recent software version as of 6/17/2025
+[^2]: Pending release of 25.2 documents
+[^3]: Deprecated.  No newer software updates expected.
+
+
 
 <!-- Product Documentation Landing Pages for reference
 - https://www.microfocus.com/documentation/fortify-static-code/
